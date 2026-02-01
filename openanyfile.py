@@ -44,6 +44,3 @@ else:
 print("\n File loaded successfully using pandas!")
 print(df.head())
 
-
-
-  # interestrate can not be null and also it cant have any carrrecter

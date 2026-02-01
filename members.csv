@@ -1,0 +1,478 @@
+MemberId,MemberName,SycGenderId
+1,Amar Pariyar,MALE
+2,sirjana ranibarma,FEMALE
+3,saraswati  Thapa,FEMALE
+4,Ramdatt joshi,MALE
+5,Aakash shreshta ,MALE
+6,Sunita gautam,FEMALE
+7,Manmaya bhattarai,FEMALE
+8, shankhar pariyar,MALE
+9,Sunita pariyar,FIMALE
+10,Arpan vetwal,MALE
+11,Bhuban singh rai,MALE
+12,Ram bahadhur Gole,MALE
+13,kripa gurung,FEMALE
+14,Rameshower Alemagar,MALE
+15,kamala khadka,FEMALE
+16,Prem bahadhur Nepali,MALE
+17,sumitra Khadgi,FEMALE
+18,Arjun Gautam ,MALE
+19,Dev kumari Thapa/khadka,FEMALE
+20,Santosh Gautam,MALE
+21,ramesh bhatta,MALE
+22,Santoshi pariyar,MALE
+23,Ram dhakal,MALE
+24,sushil Adhkari,MALE
+25,kancha man lama,MALE
+26,Bhumika sapkota Pariyar,FEMALE
+27, Roshan Khadka,MALE
+28, Santa prasad subedi,MALE
+29,Kamal Rahapal,MALE
+30,Yekendra Shahi,MALE
+31,Abishal Gajmer,MALE
+32,Rajkumar Ghatani,MALE
+33,Liladhar K.C,MALE
+34,Hiralal Tamang,MALE
+35,Govinda Bista,MALE
+36,Sangita kumari Shaha,FEMALE
+37,Ramchandra Biswokarma,MALE
+38,Buddhilal Roka,MALE
+39,Belina Thapa,MALE
+40,Raju Shrestha ,MALE
+41,Umesh karnal,MALE
+42,pushtam Rijal,MALE
+43,Gaurikala Pandey,FEMALE
+44,Asmita Lamsal,FEMALE
+45,Chhatra B.K,MALE
+46,Purna Tamang,MALE
+47,Pahal sign Rawal,FEMALE
+48,Sanu K.C,FEMALE
+49, Parbati Mishra /upadhyaya/Bhattarai,FEMALE
+50,kandas shrestha,MALE
+51,Dhan bahadhur Tamang,MALE
+52,Santosh Adhikari,MALE
+53, Mahendra prasad Nyaupane,MALE
+54,Udaya shrestha,MALE
+55,Premdas Shrestha ,MALE
+56,Raju prasad jaiswal,MALE
+57, Shova Pariyar,FEMALE
+58,Barun Baniya,MALE
+59,Ganesh Tamang,MALE
+60,Purushwtam Dulal,MALE
+61,Rabina Thapa,MALE
+62,Manish Gautam,MALE
+63,Chandrika Gautam,FEMALE
+64,Prakas Dongol,MALE
+65,Bunu Ghimire,FEMALE
+66,Madan Rai,MALE
+67,Sujan pariyar,MALE
+68,Gopaldas  Palanchoke,MALE
+69,Anjila raut,FEMALE
+70,Prem bahadhur Damai,MALE
+71,Rajkumar Nepali,MALE
+72,Kamalraj Shrestha,MALE
+73,Sabitra Rijal,FEMALE
+74,Junkiri Magar,FEMALE
+75,Thaneshoer Rai,MALE
+76,Narayan Giri,MALE
+77,Susmita Rai,FEMALE
+78, Debendra Khadka,MALE
+79,Min Bahadhur  B.K,MALE
+80,Phuri sherpa,FEMALE
+81,Man laxmi Rai,FEMALE
+82,Kumbheshori Sapkota,FEMALE
+83,Bihab Pariyar,MALE
+84,Sirjana Ghalan,FEMALE
+85, Sarthak Aacharya,MALE
+86,Rabina Bogati,FEMALE
+87,Sobha partyar (a),FEMALE
+88, Kumar Basnet,MALE
+89, Tara Rai ,FEMALE
+90, Monila Rai,FEMALE
+91, Kabita lama,FEMALE
+92,Bhim Kumari Limbu,FEMALE
+93, Bed Bahadhur Sunar,MALE
+94,Sijana Wangle,FEMALE
+95,Anusha Mishra/Aacharya,FEMALE
+96,Sheha Ranapaheli,FEMALE
+97,Rastriya prajatantra utpidit uthan sasthan,
+98,Bhanumati Das,FEMALE
+99,Lajina Rai,FEMALE
+100, Pradip Thakur,MALE
+101, Ramchandra B.K,MALE
+102,Puskar Khatiwada,MALE
+103, Shatrudhan Mukhiya,MALE
+104,Chandra Rai,FEMALE
+105,Bal krishana Aacharya,MALE
+106,Surya Bahadhur Thapa,MALE
+107,Heb Bahadhur Khadka,MALE
+108,Krishna Bahadhur B.K,MALE
+109,Ishowri Karki,FEMALE
+110,Romika Rai,FEMALE
+111,Piyush Singh,MALE
+112,Laxman Tamang,MALE
+113, Padam bdr.Biswakarma,MALE
+114,Suresh bhomjan,MALE
+115, Chandraman Ghalan,MALE
+116,Sanu Tamang,FEMALE
+117,Dhurbaraj Luitel,MALE
+118,Kabita Aacharya,FEMALE
+119,Laxmi Biswakarma,FEMALE
+120,Laxman Biswakarma,MALE
+121,Anil Rayamajhi,MALE
+122,Pulkit Khanal,MALE
+123,Isa pokharel,FEMALE
+124,Nima Tamang,MALE
+125,Kedar Khadka,MALE
+126,Fulmaya Nepali,FEMALE
+127, Kumar Pariyar,MALE
+128,Ajit pariyar,MALE
+129,Rabin Gautam,MALE
+130,Sagar Rai,MALE
+131,Sundar Sunar,MALE
+132,Santosh Giri,MALE
+133,Sarmananda Parsai,MALE
+134,Khem  kumari Rai,FEMALE
+135, Lal Kumari Tamang,FEMALE
+136,Sarala Rai,FEMALE
+137,Soman Gurung,MALE
+138,Santi  Giri,FEMALE
+139,Rajkumar Rai,MALE
+140,Lokendra Yogi,MALE
+141,Bimal Timalsena,MALE
+142,Manoj Sapakota,MALE
+143,Rajan Adhikari,MALE
+144,Bhagiratha Parajuli,MALE
+145,Yograj Pokharel,MALE
+146,Saroj Basnet,MALE
+147,Diraj Adhikari,MALE
+148,Chhiring Kumar Rai,MALE
+149,Ranjana Karki,FEMALE
+150,Dimisha Regmi/Magar,FEMALE
+151,Bir bahadhur Thapa,MALE
+152,Roshan Kumar Shrestha,MALE
+153,Indira Basnet,FEMALE
+154,Rabi Khadka,MALE
+155, Sarmila Thapa,FEMALE
+156,Naniram Dhakal,MALE
+157,Balbahadhur. Tamang,MALE
+158,Uchita Bhandari,FEMALE
+159, Sarala  Bhatta/ Bhandari,FEMALE
+160,Gautam Rai,MALE
+161, Banamali Pariyar,FEMALE
+162, Khil bdr.Magar,MALE
+163,Sita basyal/ Pokharel ,FEMALE
+164,Bimala Basnet,FEMALE
+165, Siraj Gautam,MALE
+166, Nirmala Karki,FEMALE
+167,Aabiskar Poudel ,MALE
+168,Dipendra kumar Pathak ,MALE
+169,Rajan Shahi ,MALE
+170,Badri Narayan  Chaudhary,MALE
+171,Bishow shrestha,MALE
+172,Sunita Shrestha,FEMALE
+173,Anit Kumar Dev.,MALE
+174,Sandesh  Syantang,MALE
+175,Sabina Pariyar,FEMALE
+176,Madan singh Thagunna,MALE
+177,Prabin kumar Dhahal,MALE
+178,Dharma kumari Tamang,MALE
+179,Ramhari Darji,MALE
+180,Gri bahadhur Pariyar,MALE
+181,Kamala Magar,FEMALE
+182,bal bahadhur Tamang,MALE
+183,Sona Chapagain,MALE
+184,Dipesh Bhujel,MALE
+185, Bimal Sunuwar,MALE
+186,Happy Shrestha,FEMALE
+187,Rahul kumar,MALE
+188,Ram Bahadhur  Tamang,MALE
+189,Rajkumar Thapa,MALE
+190,Aavas K.C,MALE
+191,Rahul Kumar,MALE
+192,Suvas Pun,MALE
+193,Kabir Gurung ,MALE
+194,Netra bahadhur  Pathak,MALE
+195,Manisha Majhi,FEMALE
+196,Anil Sunar,MALE
+197, Bhabana shrestha,FEMALE
+198,Sulav Pathak,MALE
+199,Anjan Gautam,MALE
+200,Phouda Bahadhur Tamang,MALE
+201,Laxmi Darji,FEMALE
+202,Maiya Lama,FEMALE
+203, Suman kumar Khadka,MALE
+204,Sarmila ghimire/Shresth,FEMALE
+205,Krishna Pariyar,MALE
+206, Manoj kumar Karki,MALE
+207,Babita Pariyar,MALE
+208,Chandrashowri Kapali,FEMALE
+209,Sanjaya Gurung,FEMALE
+210,Rupesh Niroula,MALE
+211,Sanu maya B.K,MALE
+212,Bardan Tamang,MALE
+213,Santiraj Nepali  ,MALE
+214,Dinesh Gautam,MALE
+215,Ram.bahadhur Tiruwa,MALE
+216,Mohanraj Nepali ,MALE
+217,Yamlal Pariyar,MALE
+218,Gir bahadhur Biswokarma,MALE
+219, Binod Chaudhary,MALE
+220,Ganga devi Rai ,FEMALE
+221,Ram prasad Satyal,MALE
+222,Mahendra thakur Harjam,MALE
+223, Dimple Shrestha ,FEMALE
+224,Gyanendra B.K Shahi,MALE
+225,Pramila Khadka,FEMALE
+226, Dinesh Damai,MALE
+227,Khem kumari Nepali,FEMALE
+228,Sirjana Nepali,FEMALE
+229,Sarita Bhujel,FEMALE
+230,Aashish Pandey,FEMALE
+231,Manjil Gautam,MALE
+232,Abish Gajmer,MALE
+233,Anoj kumar Khadgi,MALE
+234,Sanu kancha Tamang,MALE
+235,Sangita kumari Shaha,FEMALE
+236,Uma devi Khadgi,FEMALE
+237,Trthamaya Gole,FEMALE
+238, Sanjeeb Adhikari ,MALE
+239,Jyoti Thapa Karki,MALE
+240,Rastriya prajatantra pati,
+241,Sujana Khati,FEMALE
+242, Joshna Shrestha ,FEMALE
+243,Ambika Dhakal,FEMALE
+244,Asian Khanal,MALE
+245,Muskan Kumari,FEMALE
+246,Raju Shrestha ,MALE
+247,Hiralal Tamang,MALE
+248,Tek bahadhur Rimal,MALE
+249,Ram Kaji Tamang,MALE
+250,Prem Shrestha,MALE
+251,Ramesh Tamang ,MALE
+252,Prem Sunar,FEMALE
+253, Susma Rai,FEMALE
+254,Kendra bahadhur B.K,MALE
+255,Sunil Lama,MALE
+256,Sing bahadhur Tamang,MALE
+257,Dil maya Shrestha,FEMALE
+258,Surya narayan Shrestha,MALE
+259,  Bir bahadhur Tamang,MALE
+260,Doj bahadhr Khatri,MALE
+261,Durga bahadhur Diyali,MALE
+262,Sreeya G.M,FEMALE
+263,suresh tamang,MALE
+264,Padam bahadhur Magar,MALE
+265,Sushrena Gajmer,FEMALE
+266,Bisija Sodari,FEMALE
+267,Dinesh Swoit ,MALE
+268,Sahana Gautam,FEMALE
+269,Manish Baraili,MALE
+270,Pustam Rijal,MALE
+271,Krishnaman hemjan Tamang,MALE
+272, Surya Tamang ,MALE
+273,Sarala Bhatta/ Bhandari,MALE
+274,Sagar Thapa,MALE
+275,Ramesh Shrestha,MALE
+276,Susanta Puri ,MALE
+277,Ramila Budhathoki,FEMALE
+278,Alija danaThapa,FEMALE
+279, Sudarsan Thapa,MALE
+280,Ramila Shrestha ,FEMALE
+281,Nirmala Koirala,FEMALE
+282, BishalSingh,MALE
+283,Rambo  Gajmer,MALE
+284,Ghajan prasad Upadhyaya ,MALE
+285,prasamsa Shrestha,FEMALE
+286, Puspa Chaudhary,FEMALE
+287, Gaurikala Pandey,FEMALE
+288,Ritika B.K,FEMALE
+289,Nimai Jana,MALE
+290,Sanobabu Biswokarma,MALE
+291,Binda Sunar,FEMALE
+292,Teknath Bhandari,MALE
+293, Bishnu Khatri/Thapamagar,FEMALE
+294, Bishnu Khatri/Thapamagar,FEMALE
+295, Binju Shrestha,FEMALE
+296, Bishnukumari Thapa,FEMALE
+297,Subba Magar,MALE
+298,Lok bahadhur Thapamagar,MALE
+299,Aryan Tamang,MALE
+300,Somi maya Magar,FEMALE
+301,Dor bahadhur Magar,MALE
+302,Chet Kumari Shrestha,FEMALE
+303,Munna Thakur ,MALE
+304,Rinidevi Karn,MALE
+305,Kumari Thapamagar,FEMALE
+306,Dhan maya Magar,FEMALE
+307,Denil Banjhakar,MALE
+308,Bishnu bahadhur Pithakote,MALE
+309, Aasha maya Magar,FEMALE
+310, Om kumar Magar  ,MALE
+311,Kamal bahadhur Shrestha,MALE
+312, Basanta Biswokarma,MALE
+313, Krishna B.K ,MALE
+314,Saroj Budhathoki,MALE
+315,Ganesh Datta Dahal,MALE
+316,Sanjeb Ghimire,MALE
+317,Shova Ranamagar,FEMALE
+318,Sumnima Limbu,FEMALE
+319,Anu Niroula /Giri,FEMALE
+320,Sano kancha Rai,MALE
+321, Dinesh Prasad Shaha,MALE
+322,Yuba Daju Vai Samuha,
+323,Rama Mahato,FEMALE
+324, Rama Basnet,FEMALE
+325,Santosh kumar Sharma,MALE
+326,Sunita.B.K,FEMALE
+327, Hira Devakota/Bohora,FEMALE
+328,Binanath Shaha teli,MALE
+329,Sunita Sharma/Indira Sharma/Sita Katuwal,
+330,Renuka kamar Kshytri  ,FEMALE
+331, Anisha Bista,FEMALE
+332,Abin Lamichhane,MALE
+333,Kesav Pandey,MALE
+334,Kabita Giri,FEMALE
+335,Sujan swoit,FEMALE
+336,Yajashi Bom,FEMALE
+337,Prabin kumar Sunar,MALE
+338,Laxman B.K ,MALE
+339,Puja B.K,FEMALE
+340,Gita Shahi,FEMALE
+341,Sital Lama,FEMALE
+342, Abidesh kumar Runiyar/Baniya,MALE
+343,Kul bahadhur Ghising,MALE
+344,Sunita Magar,FEMALE
+345,Lokendra Sharma,MALE
+346,Krishna bahadhur Adhikari,MALE
+347,Unisha Baral,FEMALE
+348,Chameli Bisunkhe,FEMALE
+349,Renuka kamar Kshytri  ,FEMALE
+350, Buddhilal Roka,MALE
+351,Basanta Gurung,MALE
+352,Dipak Alemagar,MALE
+353,Manoj Biswokarma,MALE
+354,Manish Biswokarma,MALE
+355,Sudip B.K,MALE
+356,Prabin Thapamagar,MALE
+357,Dhankumari Chaulagain,FEMALE
+358,Minadevi B.K,FEMALE
+359,Tika Sapakota,FEMALE
+360,Anuj Tamang,FEMALE
+361,Nutan Sharma,FEMALE
+362,Motilal Pandey,MALE
+363,Buddhimaya Sakya,FEMALE
+364,Niraj Patel,MALE
+365, Buddhiman Tamang,MALE
+366,Rajkumar Ghatani,MALE
+367,Ram Tiruwa,MALE
+368, Dipak dorje Lama,MALE
+369,Sankhar Pariyar ,MALE
+370,Manju Lithep Thapa,FEMALE
+371,Bhupal Rai,MALE
+372,Santosh Gautam,MALE
+373,Sushita Gautam,FEMALE
+374,Nirmala Gautam,FEMALE
+375,Denbika Rai,FEMALE
+376,Ramesh Khakurel,MALE
+377,Narendra Singh,MALE
+378,Om Bahadhur Tamang,MALE
+379,lalit bahadur jarja magar,MALE
+380,Sabita Lumbre,FEMALE
+381,Bire Moktan,MALE
+382,Pratima Shrestha,FEMALE
+383,Abish/Abisha Gajmer,M\F
+384,Rita Magar,FEMALE
+385,Pragya pandey,FEMALE
+386,RamKumari Rai,FEMALE
+387,Bal bahadhur Nepali,MALE
+388,Surya Bahadhur Tamang,MALE
+389,Jyan bahadhur Tamang,MALE
+390,Aaeta sing Tamang,MALE
+391,Santi Tamang,FEMALE
+392, Pakas Sunar,MALE
+393,Anil Tamang,MALE
+394,Kabita Mijar,FEMALE
+395,Gita Sunar,FEMALE
+396,Gita Sunar(a),FEMALE
+397,Gobinda Bista,MALE
+398,Buddhill Roka,MALE
+399,Laxmi Chaulagain,FEMALE
+400,Ram bahadhur Budha,MALE
+401,Prasanta upreti,FEMALE
+402,Hridaya Narayan Ganesh,MALE
+403,Kumari Sarita Shrestha,FEMALE
+404,Amsara Sahakari,FEMALE
+405,Balabahadhur Rokaya,MALE
+406,yasodha Thign,FEMALE
+407,Purna maya Damai,FEMALE
+408,Sujan Swoit,MALE
+409, Manoj Biswokarma1,MALE
+410,Nirajan Sunuwar,MALE
+411,Rabha Blon,FEMALE
+412,Bipika rawal,FEMALE
+413,Nawaraj Thapa,MALE
+414,Sadhuram Badal,MALE
+415,Ramala Lama,FEMALE
+416,Hom bahadhur Karki,MALE
+417,Mitra bahadhur Magar,MALE
+418,Rauta Tamang ,FEMALE
+419,Kopila Baniya,FEMALE
+420,Sunita Sharma,FEMALE
+421, Dipa Pradhan,FEMALE
+422,Chandan kumar Jaiswal,MALE
+423,Asmita Magar,FEMALE
+424,Dipendra Pariyar,MALE
+425,Lal kaji Thapa,MALE
+426,Rama Basnet,FEMALE
+427,Shaikh Abul Hassan,MALE
+428,Dhana Bhattarai ,FEMALE
+429,Rashi  Thapa,FEMALE
+430,Niti Bajracharya,FEMALE
+431,Bijaya kumari Shaha,FEMALE
+432,Kesari Thapa,FEMALE
+433,Nabaraj Pokharel,MALE
+434,Gita Pokharel,FEMALE
+435, Sangita Sakya,FEMALE
+436,Ratnamaya Aryal,FEMALE
+437, Sita Satyal,FEMALE
+438,Durga Sanjel,FEMALE
+439,Shurti Parajuli,FEMALE
+440,Yamuna Gajmer,FEMALE
+441,Ratnamaya Aryal, Sabitri Adhikari
+442, Mahesh Shrestha ,MALE
+443,Madankumar thapa   magar,MALE
+444,    Binodkumar karki,MALE
+445,Sambhu B.K,MALE
+446,Sujata Khati,FEMALE
+447,SUNITA RAI ,FEMALE
+448,Sarmila thapamagar,FEMALE
+449,Mohanraj Nepali ,MALE
+450,Purna hang Sharma,MALE
+451,Roshani pariyar,FEMALE
+452,Parbati Mishra/upadhyaya,FEMALE
+453,Sanukanchaman Tamang,MALE
+454,Shiva Ji Chaudhary,MALE
+455,Nabin Sherpa,MALE
+456,Nina Tandukar,FEMALE
+457,Manju kumari singh,FEMALE
+458,Dhurba Kami,MALE
+459,Nirmala khatiwada/baral,FEMALE
+460,Madhab Hari Khanal,MALE
+461,Prakas Tamang,MALE
+462,Samragi Khanal,FEMALE
+463, Nirmala Bhandari,FEMALE
+464,Susanta Chaudhary,MALE
+465,Gir bahadhur magar,MALE
+466,Santa singh Lama,MALE
+467,Sumitra Ghimire,FEMALE
+468,Durgadevi Khadka,FEMALE
+469,Sunita Sharma,FEMALE
+470,Indira kumari thapa,JIBAN LAMA
+471,sabitri kariki,
+472,jitkala pandey,
+473,sadesh karki,
+474,Saubhagya jung karki,
+475,Bina lama,
+476,Samikshya lama,
+477,Thakur kumari Darji,
